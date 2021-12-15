@@ -1,0 +1,10 @@
+.stack {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  --space: 1.5rem;
+}
+
+.stack > * + * {
+  margin-top: var(--space);
+}
