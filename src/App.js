@@ -21,7 +21,7 @@ function App() {
   return (
     <div>
       <div className="container">
-        <h1>Welcome to my site</h1>
+        <h1>Welcome to My site</h1>
       </div>
       <TheBox />
       <TheStack />
