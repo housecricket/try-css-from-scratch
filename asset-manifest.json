@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/try-css-from-scratch/static/css/main.4ba022c6.chunk.css",
+    "main.js": "/try-css-from-scratch/static/js/main.a29c9a4b.chunk.js",
+    "main.js.map": "/try-css-from-scratch/static/js/main.a29c9a4b.chunk.js.map",
+    "runtime-main.js": "/try-css-from-scratch/static/js/runtime-main.60062105.js",
+    "runtime-main.js.map": "/try-css-from-scratch/static/js/runtime-main.60062105.js.map",
+    "static/js/2.288be6ff.chunk.js": "/try-css-from-scratch/static/js/2.288be6ff.chunk.js",
+    "static/js/2.288be6ff.chunk.js.map": "/try-css-from-scratch/static/js/2.288be6ff.chunk.js.map",
+    "index.html": "/try-css-from-scratch/index.html",
+    "static/css/main.4ba022c6.chunk.css.map": "/try-css-from-scratch/static/css/main.4ba022c6.chunk.css.map",
+    "static/js/2.288be6ff.chunk.js.LICENSE.txt": "/try-css-from-scratch/static/js/2.288be6ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60062105.js",
+    "static/js/2.288be6ff.chunk.js",
+    "static/css/main.4ba022c6.chunk.css",
+    "static/js/main.a29c9a4b.chunk.js"
+  ]
+}
